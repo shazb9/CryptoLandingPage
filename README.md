@@ -1,4 +1,4 @@
-# Coding Challenge (React)
+# Coding Challenge
 A coding challenge in which I practised my React skills along with other frameworks like Tailwind for the styling and Framer motion for the animations
 
 ## Technologies Used
